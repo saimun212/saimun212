@@ -1,7 +1,7 @@
-## Hi there 👋
+
 ###
 
-<h2 align="left">Hi 👋! My name is SAIMUN ISLAM and I'm a WEB-DEVELOPER, from BANGLADESH</h2>
+<h2 align="left"> Hi👋! My name is SAIMUN ISLAM and I'm a WEB-DEVELOPER, from BANGLADESH </h2>
     ABOUT ME 
     
 🌱 I’m currently learning **{ BBA }**
